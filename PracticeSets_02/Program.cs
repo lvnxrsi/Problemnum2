@@ -4,19 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PracticeSets_02
+namespace PS02_02
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /*
-             * Write a program that prints all the even numbers from 1 to 20 using a for loop.
-             */
-
-            int num1 = 21;
-            for (int i = 2; i < num1; i += 2)
-            { Console.WriteLine(i); }
+            for (int x=1 x<=20; x++)
+            { 
+                if (x % 2 ==0)
+                {
+                    Console.WriteLine(x);
+                }
+            }
         }
     }
 }

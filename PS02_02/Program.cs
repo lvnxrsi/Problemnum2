@@ -13,6 +13,15 @@ namespace PS02_02
             /*
             * Write a program that prints all the odd numbers from 1 to 20 using a for loop. 
             */
+
+            for (int x = 1; int <= 20)
+            {
+                if (x % 2 != 0)
+                {
+                    Console.WriteLine(x);
+                }
+            }
+
         }
     }
 }
