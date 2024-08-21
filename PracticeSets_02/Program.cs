@@ -10,7 +10,7 @@ namespace PS02_02
     {
         static void Main(string[] args)
         {
-            for (int x=1 x<=20; x++)
+            for (int x=1; x<=20; x++)
             { 
                 if (x % 2 ==0)
                 {
