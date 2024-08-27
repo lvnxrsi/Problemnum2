@@ -1,0 +1,35 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        string input;
+        int sum = 0;
+
+        while (true)
+        {
+            Console.Write("Enter a number: ");
+            input = Console.ReadLine();
+
+            if (int.TryParse(input, out _))
+            {
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Invalid input. Please enter a valid number.");
+            }
+        }
+        int i = 0;
+        while (i < input.Length)
+        {
+            if (char.IsDigit(input[i]))
+            {
+                sum += input[i] - '0';
+            }
+            i++;
+        }
+        Console.WriteLine("The sum of the digits is: " + sum);
+    }
+}
