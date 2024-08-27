@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\PSO2_04\bin\Debug\net8.0\PSO2_04.exe
+C:\Users\admin\Desktop\PSO2_04\bin\Debug\net8.0\PSO2_04.deps.json
+C:\Users\admin\Desktop\PSO2_04\bin\Debug\net8.0\PSO2_04.runtimeconfig.json
+C:\Users\admin\Desktop\PSO2_04\bin\Debug\net8.0\PSO2_04.dll
+C:\Users\admin\Desktop\PSO2_04\bin\Debug\net8.0\PSO2_04.pdb
+C:\Users\admin\Desktop\PSO2_04\obj\Debug\net8.0\PSO2_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\PSO2_04\obj\Debug\net8.0\PSO2_04.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PSO2_04\obj\Debug\net8.0\PSO2_04.AssemblyInfo.cs
+C:\Users\admin\Desktop\PSO2_04\obj\Debug\net8.0\PSO2_04.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PSO2_04\obj\Debug\net8.0\PSO2_04.dll
+C:\Users\admin\Desktop\PSO2_04\obj\Debug\net8.0\refint\PSO2_04.dll
+C:\Users\admin\Desktop\PSO2_04\obj\Debug\net8.0\PSO2_04.pdb
+C:\Users\admin\Desktop\PSO2_04\obj\Debug\net8.0\PSO2_04.genruntimeconfig.cache
+C:\Users\admin\Desktop\PSO2_04\obj\Debug\net8.0\ref\PSO2_04.dll
